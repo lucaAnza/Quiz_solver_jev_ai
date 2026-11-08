@@ -1,8 +1,6 @@
 # Quiz Solver
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/UI-Tkinter-2C5E8A?style=flat-square)
-![Jev API](https://img.shields.io/badge/AI-Jev_API-7C3AED?style=flat-square)
 
 A minimal Python desktop app that captures a selected screen region and asks
 [Jev](https://typesafe.ai/) to choose the correct answer in a four-option quiz.
